@@ -14,7 +14,7 @@ def prepare_input(cfg, text, tokenizer):
         text,
         return_tensors=None,
         add_special_tokens=True,
-        max_length= 1024,
+        max_length= cfg.MAX_LEN,
         padding='max_length', # TODO: check padding to max sequence in batch
         truncation=True
     )
