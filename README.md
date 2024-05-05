@@ -20,8 +20,8 @@ Dự án này tập trung vào việc phát hiện văn bản được tạo ra 
    git clone https://github.com/dauvannam321/CS221.O11.git
 
 2. Tải pretrained các model sau và giải nén chúng trong cùng thư mục CS221.O11:
-   - [BertBase](https://drive.google.com/drive/folders/1eevQU8FX1a7Zdu1bOgqryP7gELpqdTu3?usp=sharing)
-   - [DebertaV3Base](https://drive.google.com/drive/folders/14gIGjSUi8FfpGsB0ih5lUR1bDSopDYoP?usp=sharing)
+   - [BertBase](https://www.kaggle.com/datasets/namuvn/bertbase)
+   - [DebertaV3Base](https://www.kaggle.com/datasets/namuvn/debertav3base)
    
 3. Cài đặt các dependencies:
 
